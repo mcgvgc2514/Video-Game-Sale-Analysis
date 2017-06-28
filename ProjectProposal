@@ -1,0 +1,15 @@
+#Q1: What is the problem you want to solve?
+#Q2: Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis that they wouldn’t have otherwise?
+#Q3: What data are you going to use for this? How will you acquire this data?
+#Q4: In brief, outline your approach to solving this problem (knowing that this might change later).
+#Q5: What are your deliverables? Typically, this would include code, along with a paper and/or a slide deck.
+
+
+
+#A1: The problem I want to solve is: what variables most influence the financial success of a video game
+#A2: My client is potential video game investors, game designers, and anyone else interested in the situation.
+    #The video game investor will decide on which games to invest based on my analysis to maximize income
+    #The video game designers will design their games based on my analysis to maximize income
+#A3: I am going to use data from Kaggle (url:  https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
+#A4: I will plot different variables (x axis) on multiple graphs (y axis = income) and see if there are strong correlations.
+#A5: My deliverables are the code I used in the Jupyter IPython Notebook, which includes the graphs, as well as my interpretation of the results
